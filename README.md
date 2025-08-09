@@ -44,4 +44,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyMa1308&layout=compact&theme=dark)
 
 
-⭐ _"La tecnología es una herramienta, pero la pasión es el motor que impulsa las soluciones."_ ⭐
+
