@@ -1,5 +1,9 @@
 # 👋 ¡Hola! Soy Jordy Mayorga  
 
+<p align="center">
+  <img src="https://github.com/JordyMa1308/JordyMa1308/blob/main/Jordy.png" alt="Banner de presentación" width="600">
+</p>
+
 💻 **Estudiante de Ingeniería en Tecnologías de la Información** en la **Escuela Politécnica Nacional**, cursando los últimos semestres.  
 🚀 Apasionado por la **programación**, el **desarrollo web y móvil**, y la creación de soluciones tecnológicas funcionales y eficientes.  
 🔍 Me destaco por mi **proactividad**, **adaptabilidad** y capacidad para trabajar en equipo, siempre en búsqueda de nuevos retos y aprendizaje continuo.  
@@ -36,5 +40,8 @@
 💻 **GitHub:** [github.com/JordyPat1308](https://github.com/JordyPat1308)  
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyMa1308&layout=compact&theme=dark)
+
 
 ⭐ _"La tecnología es una herramienta, pero la pasión es el motor que impulsa las soluciones."_ ⭐
