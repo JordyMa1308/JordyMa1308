@@ -27,7 +27,9 @@
 ---
 
 ## 🌱 Actualmente aprendiendo
-- Aplicaciones distribuidas y redes e intranets  
+- Aplicaciones distribuidas y redes e intranets
+- Hacking Etico
+- Sistemas IOT
 - Minería de datos y análisis de información  
 - Optimización y escalabilidad en aplicaciones web
 
